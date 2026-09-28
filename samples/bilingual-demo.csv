@@ -1,0 +1,11 @@
+ID,Source,Translation
+welcome,"Welcome, {name}.","Willkommen."
+shipping,"Free shipping over 50 EUR.","Kostenloser Versand ab 60 EUR."
+button_1,"Save changes","Änderungen speichern"
+button_2,"Save changes","Speichern"
+subscription,"Your subscription renews on {date}.",""
+terms,"Read <b>terms</b> before continuing.","Lesen Sie <b>die Bedingungen, bevor Sie fortfahren."
+help,"Visit https://example.com/help","Besuchen Sie https://example.com/hlep"
+total,"Total: 1,250.50 EUR","Summe: 1.250,50 EUR"
+brand,"LocaleProof","LocaleProof"
+done,"All done.","Alles erledigt. "
